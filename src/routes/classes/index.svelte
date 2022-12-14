@@ -117,7 +117,7 @@
     <PanelBox>
         <p style="font-size: 1.5em; text-align: center;"><strong>Mustang Math classes</strong> bring together students from around the world with one thing in common: an outstanding passion for math. Our highly qualified instructors prepare students for competitions in a fun and engaging way. Beyond instruction, we want to build a <strong>community</strong> of students and teachers sharing their love of math.</p>
         <br />
-        <p style="font-size: 1.5em; text-align: center;">These classes will be run year-round and will be split into 4 main topics: Algebra, Combinatorics, Number Theory, and Geometry, each run for <strong>8 weeks</strong>. Instructive sessions will run for <strong>90 minutes</strong> every week over Zoom. Additionally, teachers will hold <strong>office hours</strong> each week, during which students can seek assistance with the content or ask any lingering questions. Each class will have <strong>10-15 students</strong> and, depending on the interest we receive, there may be multiple classes run for each level. The total cost for 8 weeks of classes will be <strong>$80</strong> with financial aid available.</p>
+        <p style="font-size: 1.5em; text-align: center;">These classes will be run year-round and will contain 4 main topics: Algebra, Combinatorics, Number Theory, and Geometry. Instructive sessions will run for <strong>90 minutes</strong> every week over Zoom for <strong>8 weeks</strong>. Additionally, teachers will hold <strong>office hours</strong> each week, during which students can seek assistance with the content or ask any lingering questions. Each class will have <strong>10-15 students</strong> and, depending on the interest we receive, there may be multiple classes run for each level. The total cost for 8 weeks of classes will be <strong>$80</strong> with financial aid available.</p>
     </PanelBox>
 </div> 
 <br />
@@ -127,9 +127,9 @@
 <div class="competition-wrapper">
     <FlexBox align="start">
         <Competition imgSource="classes/fx.png" competition="Algebra" description="Invariably fun. Key topics include Polynomials, Sequences, and Inequalities." />
-        <Competition imgSource="classes/dice.png" competition="Combinatorics" description="You can always count on it. Key topics include Counting Techniques, Distinguishability, and Probability " />
-        <Competition imgSource="classes/compass.png" competition="Geometry" description="Just plane interesting. Key topics include Similar Triangles, Circles, and 3D Geometry" />
-        <Competition imgSource="classes/numbers.png" competition="Number Theory" description="Prime learning material. Key topics include Primes, Bases, Modular Arithmetic" />
+        <Competition imgSource="classes/dice.png" competition="Combinatorics" description="You can always count on it. Key topics include Counting Techniques, Distinguishability, and Probability." />
+        <Competition imgSource="classes/compass.png" competition="Geometry" description="Just plane interesting. Key topics include Similar Triangles, Circles, and 3D Geometry." />
+        <Competition imgSource="classes/numbers.png" competition="Number Theory" description="Prime learning material. Key topics include Primes, Bases, Modular Arithmetic." />
     </FlexBox>
 </div> <br />
 
