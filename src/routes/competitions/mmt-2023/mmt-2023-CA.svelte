@@ -18,12 +18,12 @@
         { "Day": "4/24-4/29", "Start Time (PT)": "All Day", "Event": "Problem of the Day" },
         [ "4/29", "8:30 AM-9:00 AM", "Check-in" ],
         [ "4/29", "9:00 AM-9:30 AM", "Opening Ceremony & Contest Instructions" ],
-        [ "4/29", "9:30 AM-10:55 AM", "Mounting Mayhem (75 minutes)" ],
-        [ "4/29", "10:55 AM-12:05 PM", "Herding Hexes (60 minutes) " ],
+        [ "4/29", "9:30 AM-11:00 AM", "Mounting Mayhem (75 minutes)" ],
+        [ "4/29", "11:00 AM-12:00 PM", "Herding Hexes (45 minutes) " ],
         [ "4/29", "12:05 PM-1:00 PM", "Lunch Break (55 minutes)" ],
-        [ "4/29", "1:00 PM-1:55 PM", "Mystery Mare (45 minutes)" ],
-        [ "4/29", "1:55 PM-3:20 PM", "Gallop (60 minutes)" ],
-        [ "4/29", "3:20 PM-4:30 PM", "Optional Activities" ],
+        [ "4/29", "1:00 PM-2:00 PM", "Mystery Mare (45 minutes)" ],
+        [ "4/29", "2:00 PM-3:15 PM", "Gallop (60 minutes)" ],
+        [ "4/29", "3:15 PM-4:30 PM", "Optional Activities" ],
         [ "4/29", "4:30 PM", "Awards Ceremony" ]
     ];
 
