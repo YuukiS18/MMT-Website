@@ -65,7 +65,7 @@
 </Dropdown>
 <Dropdown mainText="Curriculum Development" id="showDropdown">
     <p>
-        The <b style="color: #1B9AAA;">Curriculum Development</b> team is in charge of <b style="color: #1B9AAA;">developing content</b> for all Mustang Math classes as well as for YouTube videos if needed. This may consist of planning lecture material, finding example problems, and <b style="color: #1B9AAA;">teaching students</b>. This is a new team this year, meaning that there is a large potential for innovation, adaptation, and new ideas.
+        The <b style="color: #1B9AAA;">Curriculum Development</b> team is in charge of <b style="color: #1B9AAA;">developing content</b> for all Mustang Math classes as well as for YouTube videos if needed. This may consist of planning lecture material, finding example problems, and <b style="color: #1B9AAA;">teaching students</b>.
     </p>
 </Dropdown>
 <Dropdown mainText="Community Engagement" id="showDropdown">
